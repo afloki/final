@@ -5,4 +5,4 @@ set(CMAKE_CXX_FLAGS "${CMAKE_CXX_FLAGS} -std=c++0x -fopenmp")
 
 set(SOURCES http.cpp)
 
-add_executable(hel ${SOURCES})
+add_executable(final ${SOURCES})
