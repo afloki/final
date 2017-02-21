@@ -3,6 +3,6 @@ project(final)
 
 set(CMAKE_CXX_FLAGS "${CMAKE_CXX_FLAGS} -std=c++0x -fopenmp")
 
-set(SOURCES hel.cpp)
+set(SOURCES http.cpp)
 
 add_executable(hel ${SOURCES})
